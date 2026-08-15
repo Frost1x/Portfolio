@@ -1,0 +1,77 @@
+#paragraphFont{
+  font-family: Arial, sans-serif;
+}
+#aboutButton{
+  background-color: white;
+  border: none;
+  padding: 10px 10px;
+  cursor: pointer;
+  position: absolute;
+  top: 28px;
+  left: 400px;
+}
+#aboutButton:hover{
+  color: blue;
+}
+#aboutMeFont{
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  left: 500px;
+}
+#skillsButton{
+  background-color: white;
+  border: none;
+  padding: 10px 10px;
+  cursor: pointer;
+  position: absolute;
+  top: 28px;
+  left: 450px;
+}
+#educationButton{
+  background-color: white;
+  border: none;
+  padding: 10px 10px;
+  cursor: pointer;
+  position: absolute;
+  top: 28px;
+  left: 500px;
+}
+#educationButton:hover{
+  color: blue;
+}
+#skillsButton:hover{
+  color: blue;
+}
+#nameFont {
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: blue;
+}
+#skillsFont{
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+#educationFont{
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+#contactFont{
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+#projectFont{
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+#fontSkills{
+  font-family: Arial, sans-serif;
+}
+#educationFont1{
+  font-family: Arial, sans-serif;
+}
