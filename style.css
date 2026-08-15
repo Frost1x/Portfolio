@@ -75,3 +75,9 @@
 #educationFont1{
   font-family: Arial, sans-serif;
 }
+.linkedinImage{
+  transition: all 0.4s;
+}
+.linkedinImage:hover{
+  transform: scale(1.2);
+}
