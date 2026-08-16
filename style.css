@@ -16,8 +16,18 @@
 #aboutMeFont{
   font-family: Arial, sans-serif;
   font-weight: 700;
-  font-size: 30px;
+  font-size: 36px;
   left: 500px;
+}
+#skillsFont {
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+#educationFont{
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  font-size: 30px;
 }
 #skillsButton{
   background-color: white;
@@ -49,16 +59,11 @@
   font-size: 30px;
   color: blue;
 }
-#skillsFont{
-  font-family: Arial, sans-serif;
-  font-weight: 700;
+#fontSkills{
   font-size: 30px;
+  line-height: 1.6
 }
-#educationFont{
-  font-family: Arial, sans-serif;
-  font-weight: 700;
-  font-size: 30px;
-}
+
 #contactFont{
   font-family: Arial, sans-serif;
   font-weight: 700;
@@ -71,6 +76,8 @@
 }
 #fontSkills{
   font-family: Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.6
 }
 #educationFont1{
   font-family: Arial, sans-serif;
@@ -80,4 +87,24 @@
 }
 .linkedinImage:hover{
   transform: scale(1.2);
+}
+#aboutMeParagraphFont{
+  font-size: 20px;
+  line-height: 1.6
+}
+#educationFont1{
+  font-size: 20px;
+  line-height: 1.6
+}
+#experienceFont{
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+}
+#educationFontBlue{
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.6;
+  color: blue;
+  font-weight: bold;
 }
