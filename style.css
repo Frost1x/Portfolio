@@ -84,6 +84,9 @@
 }
 .linkedinImage{
   transition: all 0.4s;
+  position:absolute;
+  left:360px;
+  top:2940px;
 }
 .linkedinImage:hover{
   transform: scale(1.2);
@@ -94,9 +97,20 @@
 }
 #educationFont1{
   font-size: 20px;
-  line-height: 1.6
+  line-height: 1.6;
+  color: rgb(4, 1, 1);
+}
+#educationFontExpectedGrad{
+  font-size: 20px;
+  line-height: 1.6;
+  color: grey;
 }
 #experienceFont{
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+}
+#experienceSentenceFont{
   font-family: Arial, sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -108,3 +122,12 @@
   color: blue;
   font-weight: bold;
 }
+ul {
+  margin-left: 400px;   /* Pushes the entire list further to the right */
+  margin-top: 1525px;    /* Pushes the entire list downward */
+  line-height: 2.9;
+}
+
+
+
+
